@@ -1,0 +1,141 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.section1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 10%;
+   
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+
+}
+.header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.9em;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+.top-left{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.top-left h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.5em;
+    color: rgb(70, 69, 69);
+}
+.pre-book{
+    border: rgb(250, 59, 122) 1px solid;
+    border-radius: 20px;
+    background-color: rgb(250, 59, 122);
+    padding: 10px;
+    font-weight: 700;
+    font-size: 1em;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main-camera{
+    margin-left: 15%;
+
+    
+}
+
+
+.selection2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    margin-left: 7%;
+   
+}
+.logos{
+    display: flex;
+    justify-content: center;
+  
+}
+.logo{
+    margin: 20px 40px 20px 40px;
+}
+hr{
+    color: rgba(128, 128, 128, 0.082);
+}
+.Popular-Collection{
+    margin-top: 10%;
+    color:  rgb(109, 104, 104);;
+    text-align: center;
+}
+
+.products{
+    border: rgb(161, 147, 125) ;
+    border-radius: 10px;
+    width: 330px;
+    margin-bottom: 20px;
+    background-color: rgb(251, 255, 234);
+    
+}
+.product{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.product-info{
+    margin-left: 20px;
+}
+
+.price{
+    color: rgb(59, 57, 57);
+}
+.sale-tag{
+    color: green;
+}
+.sale-tag span{
+    color: black;
+}
+.stars{
+    color: goldenrod;
+}
+.stars span{
+    color: gray;
+}
+
+footer{
+    padding-top: 20px;
+    color:rgb(155, 154, 154) ;
+    background-color: rgb(9, 9, 46);
+    padding-bottom: 20px;
+    text-align: center;
+}
+.see{
+    color:rgb(250, 59, 122);
+    text-decoration: none;
+    font-weight: 700;
+    margin-right: 10%;
+    margin-left: 80%;
+}
+
+
+/* media queiries */
+/* mobile devices */
+
+@media screen and(max-width:688px) {
+.section1 div{
+    grid-template-columns: repeat(1, 1fr);
+}
+    
+}
+
+                    /* attention */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
+/* ami dukkhito ei khane kunu vabe page take RESPONSIVE banaite partesi na. */
